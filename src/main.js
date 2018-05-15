@@ -13,7 +13,7 @@ wrap(App, AppConfig)
 
 export default {
   config: {
-    pages: ['^pages/index/main'],
+    pages: ['^pages/clients/my/main'],
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
